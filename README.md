@@ -11,6 +11,6 @@ This project showcases a series of SQL queries executed on an ecommerce database
 
 ## Project Structure
 
-- Read Me
-- Prints with results
+- ReadMe
+- Results
 - SQL Queries
