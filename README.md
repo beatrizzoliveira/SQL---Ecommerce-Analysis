@@ -1,4 +1,4 @@
-# SQL---Ecommerce-Analysis
+# SQL | Ecommerce-Analysis
 This project showcases a series of SQL queries executed on an ecommerce database, focusing on sales, customers, and product analytics. 
 
 ## Key Insights
