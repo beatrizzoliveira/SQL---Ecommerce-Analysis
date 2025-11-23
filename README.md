@@ -12,5 +12,5 @@ This project showcases a series of SQL queries executed on an ecommerce database
 ## Project Structure
 
 - ReadMe
-- Kmages of all results
+- Images of all results
 - Ecommerce analysis.sql
