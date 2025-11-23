@@ -1,2 +1,16 @@
 # SQL---Ecommerce-Analysis
-This portfolio showcases a series of SQL queries executed on an ecommerce database, focusing on sales, customers, and product analytics. The goal is to demonstrate skills in Business Intelligence, advanced SQL, data analysis, and generating actionable insights for business decision-making.
+This project showcases a series of SQL queries executed on an ecommerce database, focusing on sales, customers, and product analytics. 
+
+## Key Insights
+
+- Identify **most profitable products and categories**.
+- Highlight **top customers** and segment them strategically.
+- Understand **customer satisfaction** via product ratings and reviews.
+- Track **sales and customer growth trends** monthly.
+- Analyze **geographic trends** to guide inventory and marketing strategies.
+
+## Project Structure
+
+- Read Me
+- Prints with results
+- SQL Queries
